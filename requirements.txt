@@ -6,3 +6,4 @@ folium
 matplotlib
 branca
 streamlit-folium
+shapely
